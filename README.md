@@ -8,12 +8,12 @@ Lesmaterialen voor front-end development 2022-2023
 
 | Week | Onderwerp | Opdracht | 
 |------|---------|----------|
-| 1 | HTML, CSS, attributen, selectors | | 
-| 2 | Semantische tags, github | [Opdracht 1: je webpagina op github zetten](./opdracht1.md) | 
-| 3 | Visual Studio Code, Localhost | | 
-| 4 | Flexbox, figure | [Opdracht 2: verder met HTML en CSS](./opdracht2.md) | 
-| 5 | Responsiveness, mobile first, media queries | | 
-| 6 | Forms | [Opdracht 3: een contactformulier voor mobile](./opdracht3.md) | 
-| 7 | Uitlijning, layout, fonts, animatie | | 
-| 8 | Where to go from here | [Opdracht 4: layout en design](./opdracht4.md) | 
+| 1 | [HTML, CSS, attributen, selectors](./week1.md) | | 
+| 2 | [Semantische tags, block en inline](./week2.md) | [Opdracht 1: je eerste webpagina](./opdracht1.md) | 
+| 3 | [Visual Studio Code, Localhost, github](./week3.md) | | 
+| 4 | [Flexbox, werken met afbeeldingen](./week4.md) | [Opdracht 2: verder met HTML en CSS, Je site op github zetten](./opdracht2.md) | 
+| 5 | [Responsiveness, mobile first, media queries](./week5.md) | | 
+| 6 | [Forms](./week6.md) | [Opdracht 3: een contactformulier voor mobile](./opdracht3.md) | 
+| 7 | [Uitlijning, layout, fonts, animatie](./week7.md) | | 
+| 8 | [Where to go from here](./week8.md) | [Opdracht 4: layout en design](./opdracht4.md) | 
 | 9 | Deadline CLE portfolio website | [Evaluatie CLE website](./evaluatie.md) | 
