@@ -20,6 +20,6 @@ In de evaluatie van week 9 kan je een punt verdienen door geen van deze fouten i
 - position absolute gebruiken waar niet nodig
 - float gebruiken in plaats van flex
 - afbeeldingen worden ingedrukt of uitgerekt 
-- er is placeholder tekst of afbeeldingen gebruikt die niets met het onderwerp van de site te maken hebben.
+- er zijn placeholder teksten of afbeeldingen gebruikt die niets met het onderwerp van de site te maken hebben.
 - tutorials copy-pasten zonder te kijken naar het jaar van herkomst
-- De layout breekt op mobiel of desktop
+- meta viewport tag vergeten
