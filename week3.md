@@ -1,4 +1,4 @@
-# Week 2
+# Week 3
 
 In deze week kijken we naar layout en structuur in html met behulp van het `block` element en semantische tags. De onderwerpen zijn:
 

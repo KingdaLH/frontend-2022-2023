@@ -1,4 +1,4 @@
-# Week 3
+# Week 4
 
 In week 3 gaan we de overstap maken van Codepen naar local development, en we zetten onze site op github.
 

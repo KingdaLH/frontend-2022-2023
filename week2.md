@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 
 In deze week gaan we aan de slag met de basics van HTML en CSS. Onderwerpen zijn:
 

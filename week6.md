@@ -1,4 +1,4 @@
-# Week 5
+# Week 6
 
 Deze week gaat het over mobile. Wat is ontwerpen voor mobile? Hoe maak je een site geschikt voor verschillende schermafmetingen?
 

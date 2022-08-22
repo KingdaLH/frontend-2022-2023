@@ -1,4 +1,4 @@
-# Week 7
+# Week 8
 
 Hoe geef je jouw website een professionele uitstraling? Deze week gaan we kijken hoe andere websites dit doen. We kijken naar het gebruik van uitlijning, witruimte, fonts, huisstijl en iconografie.
 

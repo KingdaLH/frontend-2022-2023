@@ -1,4 +1,4 @@
-# Week 6
+# Week 7
 
 In week 6 gaan we aan de slag met invulformulieren.
 
