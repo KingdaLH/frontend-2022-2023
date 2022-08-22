@@ -1,15 +1,12 @@
-# Week 7
+# Week 6
 
-Hoe geef je jouw website een professionele uitstraling? Deze week gaan we kijken hoe andere websites dit doen. We kijken naar het gebruik van uitlijning, witruimte, fonts, huisstijl en iconografie.
+In week 6 gaan we aan de slag met invulformulieren.
 
 Onderwerpen:
 
-- Wat voor layout past bij een portfolio website?
-- Werken met google fonts
-- Werken met material icons, fontawesome icons
-- Dark mode herkennen
-- Kleurpalet kiezen
-- CSS transitions en keyframes
-- Video en audio tag
-- Position fixed, position absolute. Wanneer gebruik je dit?
-- Box-sizing border box
+- De Form tag
+- Form layout met labels voor desktop en mobile
+- Typen invulvelden (datum, tekst, telefoon, email)
+- Front end validatie door de browser. Placeholder tekst.
+- Validatie feedback met CSS
+- CSS selectors voor typen form fields

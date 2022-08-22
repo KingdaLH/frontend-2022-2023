@@ -8,12 +8,12 @@ Lesmaterialen voor front-end development 2022-2023
 
 | Week | Onderwerp | Opdracht | 
 |------|---------|----------|
-| 1 | [HTML, CSS, attributen, selectors](./week1.md) | | 
-| 2 | [Semantische tags, block en inline](./week2.md) | [Opdracht 1: je eerste webpagina](./opdracht1.md) | 
-| 3 | [Visual Studio Code, Localhost, github](./week3.md) | | 
-| 4 | [Flexbox, werken met afbeeldingen](./week4.md) | [Opdracht 2: verder met HTML en CSS, Je site op github zetten](./opdracht2.md) | 
-| 5 | [Responsiveness, mobile first, media queries](./week5.md) | | 
-| 6 | [Forms](./week6.md) | [Opdracht 3: een contactformulier voor mobile](./opdracht3.md) | 
-| 7 | [Uitlijning, layout, fonts, animatie](./week7.md) | | 
-| 8 | [Where to go from here](./week8.md) | [Opdracht 4: layout en design](./opdracht4.md) | 
-| 9 | Deadline CLE portfolio website | [Evaluatie CLE website](./evaluatie.md) | 
+| 1 | Introweek *(geen les)* | | 
+| 2 | [HTML, CSS, attributen, selectors](./week2.md) | | 
+| 3 | [Semantische tags, block en inline](./week3.md) |  | 
+| 4 | [Visual Studio Code, Localhost, github](./week4.md) | Opdracht 1: je eerste webpagina] | 
+| 5 | [Flexbox, werken met afbeeldingen](./week5.md) |  | 
+| 6 | [Responsiveness, mobile first, media queries](./week6.md) | Opdracht 2: verder met HTML en CSS, Je site op github zetten | 
+| 7 | [Forms](./week7.md) |  | 
+| 8 | [Uitlijning, layout, fonts, animatie, where to go from here, veelgemaakte fouten](./week8.md) | Opdracht 3: een responsive contactformulier | 
+| 9 | Deadline CLE portfolio website | Evaluatie CLE website | 

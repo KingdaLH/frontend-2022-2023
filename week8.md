@@ -1,27 +1,31 @@
-# Week 8
+# Week 7
 
-In week 8 blikken we terug op wat we tot nu toe geleerd hebben, en we blikken vooruit op wat jullie zelf nog kunnen leren door goede bronnen te vinden op het internet.
+Hoe geef je jouw website een professionele uitstraling? Deze week gaan we kijken hoe andere websites dit doen. We kijken naar het gebruik van uitlijning, witruimte, fonts, huisstijl en iconografie.
 
-- Accessibility, W3 Validator
-- Google Lighthouse
-- Stackoverflow gebruiken: kijk naar de datum. 
-- Zelf een goede vraag stellen op stackoverflow.
+Onderwerpen:
+
+- Wat voor layout past bij een portfolio website?
+- Werken met google fonts
+- Werken met material icons, fontawesome icons
+- Dark mode herkennen
+- Kleurpalet kiezen
+- CSS transitions en keyframes
+- Video en audio tag
+- Position fixed, position absolute. Wanneer gebruik je dit?
+- Box-sizing border box
+
+<br>
+<br>
+<br>
+
+# Where to go from here
+
+Je bent nu klaar om zelfstandig jezelf verder te ontwikkelen op het gebied van HTML en CSS. We geven je nog een paar tips en truuks om zelf te bestuderen! Met het volgen van deze tips kan je bonuspunten verdienen in je eindbeoordeling.
+
+- Veelgemaakte fouten
+- Toegankelijkheid, W3C validatie en overheidsstandaarden
+- Google lighthouse
+- Stackoverflow gebruiken, zelf een goede vraag kunnen stellen.
 - MDN en W3Schools
 - Youtube: NetNinja, LevelUpTuts, Traversy Media
-- Veel gemaakte fouten
 
-<br>
-<br>
-<br>
-
-## Veel gemaakte fouten
-
-In de evaluatie van week 9 kan je een punt verdienen door geen van deze fouten in je website te maken:
-
-- inline styles gebruiken in je HTML bestand
-- position absolute gebruiken waar niet nodig
-- float gebruiken in plaats van flex
-- afbeeldingen worden ingedrukt of uitgerekt 
-- er zijn placeholder teksten of afbeeldingen gebruikt die niets met het onderwerp van de site te maken hebben.
-- tutorials copy-pasten zonder te kijken naar het jaar van herkomst
-- meta viewport tag vergeten

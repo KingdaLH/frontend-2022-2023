@@ -1,12 +1,13 @@
-# Week 6
+# Week 5
 
-In week 6 gaan we aan de slag met invulformulieren.
+Deze week gaat het over mobile. Wat is ontwerpen voor mobile? Hoe maak je een site geschikt voor verschillende schermafmetingen?
 
 Onderwerpen:
 
-- De Form tag
-- Form layout met labels voor desktop en mobile
-- Typen invulvelden (datum, tekst, telefoon, email)
-- Front end validatie door de browser. Placeholder tekst.
-- Validatie feedback met CSS
-- CSS selectors voor typen form fields
+- Mobile First
+- Meta Resize Tag
+- Responsive mode aanzetten in de browser
+- Layout tips met flex, vw en % units
+- @media queries en breakpoints voor phone, tablet, desktop
+- nav items onder elkaar zetten op mobiel
+- een horizontal scroller maken op mobiel

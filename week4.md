@@ -1,12 +1,15 @@
-# Week 4
+# Week 3
 
-In deze week gaan we kijken naar een magische CSS trick: de FLEX box, en we gaan werken met afbeeldingen.
+In week 3 gaan we de overstap maken van Codepen naar local development, en we zetten onze site op github.
 
 Onderwerpen:
 
-- Flex box
-- Navigatie bar maken met flex
-- images naast elkaar zetten met flex
-- image object fit gebruiken om vervorming tegen te gaan
-- background image gebruiken voor header / hero
-- figure tag voor captions
+- Installeren Visual Studio Code
+- Installeren live server
+- index.html en style.css aanmaken en openen
+- De default html maken met ! shortcut. Bekijken wat hier in staat.
+- Codepen overzetten naar lokaal
+- Een github account maken en een repository maken
+- Files op github plaatsen via upload button
+- Github pages aan zetten
+- Begin maken met het portfolio
