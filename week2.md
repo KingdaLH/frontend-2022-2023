@@ -1,8 +1,20 @@
 # Week 2
 
-In deze week gaan we aan de slag met de basics van HTML en CSS. Onderwerpen zijn:
+In deze week gaan we aan de slag met de basics van HTML en CSS. 
 
-- Codepen
+## Bespreken
+
+- Cursushandleiding en beoordeling
+- De CLE opdracht: bouw een portfolio website
+- 🧐 Wat is een website? 
+- Online voorbeelden van toffe websites
+- Hoe bouw je een website?
+
+## Hands-on
+
+We gaan aan de slag met de basis! Maak een codepen account en bouw je eerste site.
+
+- Codepen, code view en full page view
 - HTML Tags: 
     - p
     - h1 ~ h6
