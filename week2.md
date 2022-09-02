@@ -8,7 +8,7 @@ In deze week gaan we aan de slag met de basics van HTML en CSS.
 - Werken met deze github: de uitwerking verschijnt na de les. Neem deze wekelijks goed door.
 - De CLE opdracht: bouw een portfolio website
 - 🧐 Wat is een (portfolio) website? 
-- Online voorbeelden van toffe (portfolio) websites
+- Online voorbeelden van toffe (portfolio) websites (bv. http://voskamp.tv/Amfox/)
 - Hoe bouw je een website?
 
 ## Hands-on
@@ -26,7 +26,12 @@ We gaan aan de slag met de basis! Maak een codepen account en bouw je eerste sit
 <img>
 <ul> <li>
 ```
-Let op dat `<br>` en `<img>` geen closing tag hebben.
+
+- Let op dat `<br>` en `<img>` geen closing tag hebben.
+- Afbeeldingen op codepen moeten online staan. Om te oefenen kan je *cat as a service* gebruiken: `<img src="https://cataas.com/cat/cute"> `
+
+<br>
+<Br>
 
 ### CSS
 
