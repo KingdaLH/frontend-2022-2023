@@ -11,11 +11,15 @@ In deze week gaan we aan de slag met de basics van HTML en CSS.
 - Online voorbeelden van toffe (portfolio) websites (bv. http://voskamp.tv/Amfox/)
 - Hoe bouw je een website?
 
+<br>
+<br>
+<br>
+
 ## Hands-on
 
-We gaan aan de slag met de basis! Maak een codepen account en bouw je eerste site.
+We gaan aan de slag met de basis! Maak een [Codepen account](https://codepen.io) en bouw je eerste site.
 
-- Codepen, code view en full page view
+Bekijk de code view en full page view in Codepen.
 
 ### HTML
 ```html
