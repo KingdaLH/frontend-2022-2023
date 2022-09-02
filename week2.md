@@ -5,9 +5,10 @@ In deze week gaan we aan de slag met de basics van HTML en CSS.
 ## Bespreken
 
 - Cursushandleiding en beoordeling
+- Werken met deze github: de uitwerking verschijnt na de les. Neem deze wekelijks goed door.
 - De CLE opdracht: bouw een portfolio website
-- 🧐 Wat is een website? 
-- Online voorbeelden van toffe websites
+- 🧐 Wat is een (portfolio) website? 
+- Online voorbeelden van toffe (portfolio) websites
 - Hoe bouw je een website?
 
 ## Hands-on
