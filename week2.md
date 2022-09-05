@@ -17,9 +17,7 @@ In deze week gaan we aan de slag met de basics van HTML en CSS.
 
 ## Hands-on
 
-We gaan aan de slag met de basis! Maak een [Codepen account](https://codepen.io) en bouw je eerste site.
-
-Bekijk de code view en full page view in Codepen.
+We gaan aan de slag met de basis! Maak een [Codepen account](https://codepen.io) en bouw je eerste site. Bekijk de code view en full page view in Codepen.
 
 ### HTML
 ```html
@@ -30,9 +28,18 @@ Bekijk de code view en full page view in Codepen.
 <img>
 <ul> <li>
 ```
+> *Let op dat `<br>` en `<img>` geen closing tag nodig hebben*
 
-- Let op dat `<br>` en `<img>` geen closing tag hebben.
-- Afbeeldingen op codepen moeten online staan. Om te oefenen kan je *cat as a service* gebruiken: `<img src="https://cataas.com/cat/cute"> `
+<br>
+
+### Afbeeldingen op Codepen
+
+Met behulp van *Cat as a Service* of *Unsplash* kan je makkelijk oefenen met afbeeldingen in Codepen.
+
+```html
+<img src="https://source.unsplash.com/1600x900/?pizza">
+<img src="https://cataas.com/cat/cute">
+```
 
 <br>
 <Br>
