@@ -7,7 +7,7 @@
 <p>Dit is de eerste les van front-end web development</p>
 
 <h2>HTML Tags</h2>
-<p>Het gebruik van HTML tags zorgt dat de browser een opmaak geeft aan de tekst. Zonder tags wordt al je tekst achter elkaar geplaatst. Probeer dit uit in CodePen. Je tekst staat altijd binnen een HTML tag. De P tag is een paragraaf. <br>Line breaks gebruik je als je binnen een paragraaf naar de volgende regel wil springen.</p>
+<p>Het gebruik van HTML tags zorgt dat de browser een opmaak geeft aan de tekst. Zonder tags wordt al je tekst achter elkaar geplaatst. Probeer dit uit in CodePen. Je tekst staat altijd binnen een HTML tag. De P tag is een paragraaf. <br>Line breaks gebruik je als je binnen een paragraaf naar de volgende regel wil springen. Je gebruikt <em>emphasis</em> en <strong>strong</strong> om een woord extra nadruk te geven.</p>
 
 <h3>Afsluiten van tags</h3>
 <p>De meeste tags bestaan uit een opening en afsluiting. Er zijn een aantal uitzonderingen waarbij de tag los kan staan: <br> en <img>.
