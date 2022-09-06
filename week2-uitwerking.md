@@ -24,14 +24,21 @@
 <p>Je kan je HTML leesbaarder maken door elk level van nesting in te springen met een tab of vier spaties. </p>
 
 <h3>Lijst</h3>
-<p>
-    Een lijst maak je met OL, UL en LI items.
-    <ul>
-        <li>todo item 1</li>
-        <li>todo item 2</li>
-        <li>todo item 3</li>
-    </ul>
-</p>
+
+<p>Een lijst maak je met OL, UL en LI items.</p>
+
+<ol>
+    <li>Gieter pakken</li>
+    <li>Water vullen</li>
+    <li>Planten water geven</li>
+</ol>
+
+<ul>
+    <li>Sporten</li>
+    <li>Kat eten geven</li>
+    <li>Afwas doen</li>
+</ul>
+
 ```
 
 ### Afbeeldingen op Codepen
