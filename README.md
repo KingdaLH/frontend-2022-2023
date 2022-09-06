@@ -20,4 +20,4 @@ Lesmaterialen voor front-end development 2022-2023
 
 <br>
 
-> *De code voor de uitwerking verschijnt in de week waarin die les is gegeven*
+> *De code voor de uitwerking wordt na de les geplaatst*

@@ -2,12 +2,14 @@
 
 - Google fonts
 - Fontawesome icons
+- CSS `calc()`
 - CSS transform
 - CSS transition
 - CSS animation
 - CSS filter
 - CSS grid
 - CSS variables
+- Position absolute / relative / fixed
 
 
 
@@ -48,6 +50,24 @@ Vervolgens kan je de icons gebruiken:
 <i class="fab fa-instagram fa-2x"></i>
 ```
 [Bekijk alle icons hier](https://fontawesome.com/icons)
+
+<br>
+<br>
+<br>
+
+## CSS calc
+
+Met `calc()` kan je berekeningen maken tussen verschillende soorten units. In dit voorbeeld centreren we een element door de `margin` de helft van het scherm (`50vw`) te maken, **minus de helft van de breedte van het element (`50px`)**
+
+```html
+<div id="logo">Uw logo hier</div>
+```
+```css
+#logo {
+    width : 100px;
+    margin-left : calc(50vw - 50px);
+}
+```
 
 <br>
 <br>
@@ -208,6 +228,36 @@ Stel je variabelen (*custom properties*) in via `:root`. Plaats `--` voor je var
 }
 ```
 [MDN Documentatie](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+
+<br>
+<br>
+<br>
+
+## Position : absolute / relative / fixed / sticky
+
+Met de CSS stijl `position:absolute / fixed / sticky` haal je een element **uit de document flow**. Het element heeft dan geen effect meer op de positionering van andere elementen. Het element *zweeft* als het ware boven je normale document. Je kan het element nu positioneren met `left, top, bottom, right`. Een voorbeeld:
+
+```html
+<div id="logo"></div>
+```
+```css
+#logo {
+    position:absolute;
+    left:20px;
+    top:20px;
+}
+```
+Een veelgemaakte fout is om deze manier van positioneren te gebruiken voor elementen die eigenlijk wél in je document flow moeten blijven.
+
+### Wanneer gebruik je position?
+
+- Voor *floating buttons*, die altijd op dezelfde plek moeten blijven staan en boven je document zweven.
+- Voor een *fixed navigation bar* die altijd bovenin je pagina moet blijven staan.
+- Voor **modal boxes** (*"Klik OK om door te gaan"*) die boven je webpagina zweven.
+- `position:relative` kan je gebruiken om elementen "hard" te positioneren, *binnen* een parent element die wél in je document flow staat.
+- `position:relative` kan je bijvoorbeeld gebruiken om een tekst bovenop een `<img>` element te plaatsen. 
+
+
 
 <br>
 <br>
