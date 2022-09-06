@@ -7,9 +7,11 @@ In deze week gaan we aan de slag met de basics van HTML en CSS.
 - Cursushandleiding en beoordeling
 - Werken met deze github: de uitwerking verschijnt na de les. Neem deze wekelijks goed door.
 - De CLE opdracht: bouw een portfolio website
-- 🧐 Wat is een (portfolio) website? 
-- Online voorbeelden van toffe (portfolio) websites (bv. http://voskamp.tv/Amfox/)
-- Hoe bouw je een website?
+- Wat is een (portfolio) website? 
+- Online voorbeelden 
+    - http://voskamp.tv/Amfox/
+    - https://www.awwwards.com/awwwards/collections/freelance-portfolio/
+
 
 <br>
 <br>
