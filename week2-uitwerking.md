@@ -7,17 +7,23 @@
 <p>Dit is de eerste les van front-end web development</p>
 
 <h2>HTML Tags</h2>
-<p>Het gebruik van HTML tags zorgt dat de browser een opmaak geeft aan de tekst. Zonder tags wordt al je tekst achter elkaar geplaatst. Probeer dit uit in CodePen. Je tekst staat altijd binnen een HTML tag. De P tag is een paragraaf. <br>Line breaks gebruik je als je binnen een paragraaf naar de volgende regel wil springen. Je gebruikt <em>emphasis</em> en <strong>strong</strong> om een woord extra nadruk te geven.</p>
+<p>Het gebruik van HTML tags zorgt dat de browser een opmaak geeft aan de tekst. Zonder tags wordt al je tekst achter elkaar geplaatst.<br>
+De P tag is een paragraaf. Line breaks gebruik je als je binnen een paragraaf naar de volgende regel wil springen.<br>
+Je gebruikt <em>emphasis</em> en <strong>strong</strong> om een woord extra nadruk te geven.</p>
 
 <h3>Afsluiten van tags</h3>
-<p>De meeste tags bestaan uit een opening en afsluiting. Er zijn een aantal uitzonderingen waarbij de tag los kan staan: <br> en <img>.
+<p>De meeste tags bestaan uit een opening en afsluiting.<br>
+Er zijn een aantal uitzonderingen waarbij de tag los kan staan: <br> en <img>.
 </p>
 
 <h3>Links en afbeeldingen</h3>
-<p>Je kan een link maken met de A tag: <a href="https://cmgt.hr.nl">ga naar de CMGT showcase</a>. Je kan afbeeldingen plaatsen met de IMG <img src="./images/myimage.png"> tag. Afbeeldingen zijn vaak niet in de juiste afmeting. Dit moet je schalen met CSS.<br>Afbeeldingen vereisen een `alt` tag om aan te geven wat er op de afbeelding staat <img src="./images/myimage.png" alt="cat"></p>
+<p>Je kan een link maken met de A tag: <a href="https://cmgt.hr.nl">ga naar de CMGT showcase</a><br>
+Je kan afbeeldingen plaatsen met de IMG <img src="./images/myimage.png"> tag. Afbeeldingen zijn vaak niet in de juiste afmeting. Dit moet je schalen met CSS.<br>
+Afbeeldingen vereisen een `alt` tag om aan te geven wat er op de afbeelding staat <img src="./images/myimage.png" alt="cat"></p>
 
 <h3>Nested tags</h3>
-<p>Tags kunnen binnen andere tags staan, bijvoorbeeld een afbeelding als link: <a href="https://..."><img src="..."></a>. De <span>SPAN</span> tag is de enige tag die helemaal geen effect heeft op je opmaak, tenzij je dat zelf aangeeft in je CSS.
+<p>Tags kunnen binnen andere tags staan, bijvoorbeeld een afbeelding als link: <a href="https://..."><img src="..."></a>.<br>
+De <span>SPAN</span> tag is de enige tag die helemaal geen effect heeft op je opmaak, tenzij je dat zelf aangeeft in je CSS.
 </p>
 
 <h3>Opmaak in je code</h3>
