@@ -21,14 +21,16 @@ We gaan aan de slag met de basis! Maak een [Codepen account](https://codepen.io)
 
 ### HTML
 ```html
-<p>
-<h1> ~ <h6>
-<a>
+<p></p>
+<h1></h1> ~ <h6></h6>
+<a></a>
 <br>  
 <img>
-<ul> <li>
+<ul>
+    <li></li>
+</ul>
 ```
-> *Let op dat `<br>` en `<img>` geen closing tag nodig hebben*
+> *Let op dat `<br>` en `<img>` geen closing tag nodig hebben. Je mag ze ook "self closing" maken: `<br/>` en `<img/>`*
 
 <br>
 
