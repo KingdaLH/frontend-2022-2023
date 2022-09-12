@@ -164,6 +164,8 @@ span {
 }
 ```
 
+- [Lees meer over Cascading](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
+
 <br>
 <br>
 <br>
@@ -338,4 +340,5 @@ h2 {
 - [MDN margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin) en [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
 - [Styling Tables](https://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy)
 - [Default Stylesheet](https://hell.meiert.org/core/css/css-2.2.css)
+- [Cascading](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
 - [HTML](https://www.w3schools.com/html/) en [CSS](https://www.w3schools.com/css/) op W3Schools
