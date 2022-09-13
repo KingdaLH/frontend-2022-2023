@@ -1,4 +1,4 @@
-# Code Voorbeelden
+# Code Voorbeelden zelfstudie week 8
 
 - Google fonts
 - Fontawesome icons
