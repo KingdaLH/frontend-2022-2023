@@ -63,28 +63,27 @@ Met behulp van *Cat as a Service* of *Unsplash* kan je makkelijk oefenen met afb
 
 ## Links
 
-Links kunnen naar een externe pagina gaan of binnen dezelfde pagina blijven. Met `target` kan je bepalen waar een link opent.
+Links kunnen naar een externe pagina gaan of binnen dezelfde pagina blijven. 
 
 ### 🔗 EXTERNE LINK
 ```html
-<a href="https://cmgt.hr.nl" target="_blank">Link naar externe pagina, de CMGT Student Showcase</a>
+<a href="https://cmgt.hr.nl">Link naar externe pagina, de CMGT Student Showcase</a>
 ```
+Open de link in een nieuw venster met [target](https://www.w3schools.com/tags/att_a_target.asp).
+
+```html
+<a href="https://cmgt.hr.nl" target="_blank">CMGT</a>
+```
+<br>
 
 ### 🔗 LINK BINNEN DEZELFDE PAGINA
 ```html
 <a href="#overcmgt">Lees meer over CMGT</a>
 
-<!-- de link springt naar de target -->
-<a name="overcmgt"></a>
+<!-- de link springt naar deze id -->
+<h1 id="overcmgt">Over CMGT</h1>
 ```
 
-### Link targets
-
-Een link opent standaard in hetzelfde venster. Dit kan je aanpassen met het [target](https://www.w3schools.com/tags/att_a_target.asp).
-
-```html
-<a href="https://cmgt.hr.nl" target="_blank">CMGT</a>
-```
 
 <br>
 <br>
