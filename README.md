@@ -15,7 +15,7 @@ Lesmaterialen voor front-end development 2022-2023
 | 5 | [Flexbox, werken met afbeeldingen](./week5.md) |[Uitwerking](week5-uitwerking.md)|  | 
 | 6 | [Responsiveness, mobile first, media queries](./week6.md) | [Uitwerking](week6-uitwerking.md)|Opdracht 2: verder met HTML en CSS, Je site op github zetten | 
 | 7 | [Forms](./week7.md) |[Uitwerking](week7-uitwerking.md)|  | 
-| 8 | [Layout, veelgemaakte fouten, zelfstudie ](./week8.md) | [Uitwerking](./week8-uitwerking.md) en [zelfstudie](./zelfstudie.md) | Opdracht 3: een responsive contactformulier | 
+| 8 | [Layout, veelgemaakte fouten, zelfstudie ](./week8.md) |  [Code voorbeelden](./week8-voorbeelden.md) | Opdracht 3: een responsive contactformulier | 
 | 9 | Deadline CLE portfolio website | | Evaluatie CLE website | 
 
 <br>

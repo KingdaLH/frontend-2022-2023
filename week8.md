@@ -81,7 +81,7 @@ Het onderwerp van je site is hierbij cruciaal. Verkoop je een product, bied je i
 <a name="zelfstudie"></a>
 # Zelfstudie
 
-In deze cursus hebben we de basis gelegd van het werken met HTML en CSS. Er is echter nog een hele wereld aan technieken waar je je in kan verdiepen! In deze lijst lichten we een aantal toe. [🔥 Er zijn ook code voorbeelden](./zelfstudie.md)
+In deze cursus hebben we de basis gelegd van het werken met HTML en CSS. Er is echter nog een hele wereld aan technieken waar je je in kan verdiepen! In deze lijst lichten we een aantal toe. [🔥 Er zijn ook code voorbeelden](./week8-voorbeelden.md)
 
 - [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 - SVG
@@ -96,9 +96,23 @@ In deze cursus hebben we de basis gelegd van het werken met HTML en CSS. Er is e
 - CSS variables 🤯
 - [CSS grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
 
-[🔥 Bekijk hier de code voorbeelden](./zelfstudie.md)
+[🔥 Bekijk hier de code voorbeelden](./week8-voorbeelden.md)
 
 > *Door punten uit de zelfstudie lijst te verwerken in je eindproduct kan je een MASTER punt scoren - zie de cursushandleiding.*
+
+<br>
+<br>
+<br>
+
+# Code voorbeelden
+
+- [Voorbeelden week 8](./week8-voorbeelden.md)
+- [Voorbeeldproject: de Cybertruck](https://codepen.io/eerk/pen/YzWKXPG)
+- [Voorbeeldproject: Alan Kay](https://hr-cmgt.github.io/alankay-dynabook/) en [code](https://github.com/HR-CMGT/alankay-dynabook)
+- [HTML en CSS tutorial: bouw een capibara website](https://glitch.com/@KokoDoko/html-basics)
+- [Horizontal Scroller](https://codepen.io/eerk/pen/PoEVXOv)
+- [Kolommen met flex box en schalende afbeeldingen](https://codepen.io/eerk/pen/rNdWjKR)
+
 
 <br>
 <br>
@@ -117,17 +131,6 @@ Online bronnen voor verdere zelfstudie:
 - [NetNinja](https://www.youtube.com/c/TheNetNinja), [LevelUpTuts](https://www.youtube.com/c/LevelUpTuts), [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 
 
-<br>
-<br>
-<br>
-
-# Online code voorbeelden
-
-- [HTML en CSS voorbeeldproject: de Cybertruck](https://codepen.io/eerk/pen/YzWKXPG)
-- [HTML en CSS tutorial: bouw een capibara website](https://glitch.com/@KokoDoko/html-basics)
-- [HTML en CSS voorbeeldproject: Alan Kay](https://hr-cmgt.github.io/alankay-dynabook/) en [code](https://github.com/HR-CMGT/alankay-dynabook)
-- [Horizontal Scroller](https://codepen.io/eerk/pen/PoEVXOv)
-- [Kolommen met flex box en schalende afbeeldingen](https://codepen.io/eerk/pen/rNdWjKR)
 
 
 <br>

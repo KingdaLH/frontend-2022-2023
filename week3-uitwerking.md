@@ -255,7 +255,18 @@ section div { ... }
 /* alle divs EN alle elementen met class explanation */
 div, .explanation { ... }
 ```
-Door slim met nested selectors te werken heb je minder classes en ids nodig!
+Door slim met nested selectors te werken heb je minder classes en ids nodig!<br>
+Speel de [CSS game](https://flukeout.github.io) om hier verder mee te oefenen.
+
+<br>
+<br>
+<br>
+
+## Voorbereiding week 4
+
+- Maak alvast een [account aan op github.com](https://github.com/)
+- Download alvast [Visual Studio Code](https://code.visualstudio.com/download)
+
 
 <br>
 <br>
