@@ -35,13 +35,19 @@ Maak onderstaande screenshot na met de HTML/CSS technieken die je tot nu toe heb
 
 > *TIP: als je nog niet weet welke semantische tags handig zijn gebruik je het `<div>` element.*
 
-<img src="./images/week4.png" width="400">
-
-<br>
+<img src="./images/week4.png" width="350">
 
 ## Puntjes op de i
 
 Maak het helemaal af door `box-shadow, 
 corner-radius` en `overflow-hidden` op je container element toe te passen.
 
-<img src="./images/week4-advanced.png" width="400">
+<img src="./images/week4-advanced.png" width="350">
+
+<br>
+<br>
+<br>
+
+# Inleveropdracht
+
+Deze week maak je de eerste inleveropdracht op [FeedbackFruits](https://feedbackfruits.com). Dit is onderdeel van je beoordeling.
