@@ -35,7 +35,7 @@ Maak onderstaande screenshot na met de HTML/CSS technieken die je tot nu toe heb
 
 > *TIP: als je nog niet weet welke semantische tags handig zijn gebruik je het `<div>` element.*
 
-![image](./images/week4.png)
+<img src="./images/week4.png" width="400">
 
 <br>
 
@@ -44,4 +44,4 @@ Maak onderstaande screenshot na met de HTML/CSS technieken die je tot nu toe heb
 Maak het helemaal af door `box-shadow, 
 corner-radius` en `overflow-hidden` op je container element toe te passen.
 
-![image](./images/week4-advanced.png)
+<img src="./images/week4-advanced.png" width="400">
