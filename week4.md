@@ -21,3 +21,27 @@ In week 3 gaan we de overstap maken van Codepen naar local development, en we ze
 - Files op github plaatsen via upload button
 - Github pages aan zetten
 - Begin maken met het portfolio
+
+<br>
+<br>
+<br>
+
+## Oefening
+
+Maak onderstaande screenshot na met de HTML/CSS technieken die je tot nu toe hebt geleerd. 
+
+- Maak een block element dat gecentreerd op de pagina staat.
+- Plaats daarbinnen vier block elementen onder elkaar waarin de content komt.
+
+> *TIP: als je nog niet weet welke semantische tags handig zijn gebruik je het `<div>` element.*
+
+![image](./images/week4.png)
+
+<br>
+
+## Puntjes op de i
+
+Maak het helemaal af door `box-shadow, 
+corner-radius` en `overflow-hidden` op je container element toe te passen.
+
+![image](./images/week4-advanced.png)
