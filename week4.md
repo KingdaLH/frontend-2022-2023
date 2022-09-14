@@ -39,8 +39,10 @@ Maak onderstaande screenshot na met de HTML/CSS technieken die je tot nu toe heb
 
 ## Puntjes op de i
 
-Maak het helemaal af door `box-shadow, 
-corner-radius` en `overflow-hidden` op je container element toe te passen.
+- Experimenteer met `box-shadow, 
+corner-radius` en `overflow-hidden` op de container.
+- Maak de font kleuren een lichtere of donkerder tint dan de achtergrondkleur.
+- Speel met [filter]() op de afbeelding.
 
 <img src="./images/week4-advanced.png" width="350">
 
