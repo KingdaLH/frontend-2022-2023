@@ -39,8 +39,8 @@ Maak onderstaande screenshot na met de HTML/CSS technieken die je tot nu toe heb
 
 ## Puntjes op de i
 
-- Experimenteer met `box-shadow, 
-corner-radius` en `overflow-hidden` op de container.
+- Experimenteer met [box-shadow](https://www.cssmatic.com/box-shadow), 
+[corner-radius](https://www.w3schools.com/css/css3_borders.asp) en [overflow-hidden](https://www.w3schools.com/css/css_overflow.asp) op de container.
 - Maak de font kleuren een lichtere of donkerder tint dan de achtergrondkleur.
 - Speel met [filter](https://divisoup.com/how-to-use-css3-filters-to-create-captivating-images/) op de afbeelding.
 
