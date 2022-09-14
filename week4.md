@@ -42,7 +42,7 @@ Maak onderstaande screenshot na met de HTML/CSS technieken die je tot nu toe heb
 - Experimenteer met `box-shadow, 
 corner-radius` en `overflow-hidden` op de container.
 - Maak de font kleuren een lichtere of donkerder tint dan de achtergrondkleur.
-- Speel met [filter]() op de afbeelding.
+- Speel met [filter](https://divisoup.com/how-to-use-css3-filters-to-create-captivating-images/) op de afbeelding.
 
 <img src="./images/week4-advanced.png" width="350">
 
