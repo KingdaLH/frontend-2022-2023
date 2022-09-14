@@ -270,3 +270,4 @@ Een veelgemaakte fout is om deze manier van positioneren te gebruiken voor eleme
 - [HTML en CSS voorbeeldproject: Alan Kay](https://hr-cmgt.github.io/alankay-dynabook/) en [code](https://github.com/HR-CMGT/alankay-dynabook)
 - [Horizontal Scroller](https://codepen.io/eerk/pen/PoEVXOv)
 - [Kolommen met flex box en schalende afbeeldingen](https://codepen.io/eerk/pen/rNdWjKR)
+- [Filters op images](https://divisoup.com/how-to-use-css3-filters-to-create-captivating-images)
