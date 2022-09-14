@@ -44,7 +44,7 @@ corner-radius` en `overflow-hidden` op de container.
 - Maak de font kleuren een lichtere of donkerder tint dan de achtergrondkleur.
 - Speel met [filter](https://divisoup.com/how-to-use-css3-filters-to-create-captivating-images/) op de afbeelding.
 
-<img src="./images/week4-advanced.png" width="350">
+<img src="./images/week4_advanced.png" width="350">
 
 <br>
 <br>
