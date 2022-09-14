@@ -196,6 +196,11 @@ section {
     max-width:1000px;
 }
 ```
+<br>
+
+### TIP wanneer `vw` en `%` ?
+
+De top level containers (block elementen) van je website schaal je met `vw`. Je content blokken zijn dan bijvoorbeeld `80vw` van je scherm. Als je daar weer andere block elementen of afbeeldingen **IN** zet, dan maak je die `100%`. Die "child elements" zijn dan altijd net zo breed als de parent container.
 
 <br>
 <br>
