@@ -92,6 +92,7 @@ In deze cursus hebben we de basis gelegd van het werken met HTML en CSS. Er is e
 - CSS transform
 - CSS transition en animation
 - CSS filter
+- [Images voor hi-density displays](https://css-tricks.com/responsive-images-css/)
 - [CSS voor Dark Mode](https://css-tricks.com/dark-modes-with-css/)
 - CSS variables 🤯
 - [CSS grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)

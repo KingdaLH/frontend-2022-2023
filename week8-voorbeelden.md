@@ -7,6 +7,7 @@
 - CSS transition
 - CSS animation
 - CSS filter
+- Images voor hi-density displays
 - CSS grid
 - CSS variables
 - Position absolute / relative / fixed
@@ -176,6 +177,23 @@ img:hover {
 
 
 [Bekijk alle opties op MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
+
+<br>
+<br>
+<br>
+
+## Images voor hi-density displays
+
+Telefoons en nieuwe laptops hebben vaak een hoge-resolutie display. Dat zorgt ervoor dat afbeeldingen in een lage resolutie *(72 pixels per inch)* blurry kunnen worden. 
+
+Met [`srcset`](https://css-tricks.com/responsive-images-css/) kan je hoge resolutie afbeeldingen toevoegen voor hi-density displays.
+
+```html
+<img srcset="
+  examples/images/image-384.jpg 1x, 
+  examples/images/image-768.jpg 2x
+" alt="…">
+```
 
 <br>
 <br>
