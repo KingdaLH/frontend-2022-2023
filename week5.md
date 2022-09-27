@@ -56,5 +56,6 @@ Maak onderstaande navigatie balk na. Het logo staat links. De buttons staan tege
 
 - [CSS Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flex justify content](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
+- [Flex shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
 - [Flex basis](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis), [flex grow](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow) en [Flex shrink](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow)
 - Maak random avatar links : `https://randomuser.me/api/portraits/men/41.jpg`
