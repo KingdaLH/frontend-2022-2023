@@ -16,6 +16,14 @@ In deze week gaan we kijken naar een magische CSS trick: de FLEX box, en we gaan
 <br>
 <br>
 
+# Cheat sheet
+
+<a href="./images/flex-poster-large.png"><img src="./images/flex-poster-small.png" width="300"></a>
+
+<Br>
+<br>
+<br>
+
 # Oefening
 
 ## Cards
