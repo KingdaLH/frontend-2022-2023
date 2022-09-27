@@ -109,7 +109,6 @@ In deze cursus hebben we de basis gelegd van het werken met HTML en CSS. Er is e
 
 - [Voorbeelden week 8](./week8-voorbeelden.md)
 - [Voorbeeldproject: de Cybertruck](https://codepen.io/eerk/pen/YzWKXPG)
-- [Voorbeeldproject: Alan Kay](https://hr-cmgt.github.io/alankay-dynabook/) en [code](https://github.com/HR-CMGT/alankay-dynabook)
 - [HTML en CSS tutorial: bouw een capibara website](https://glitch.com/@KokoDoko/html-basics)
 - [Horizontal Scroller](https://codepen.io/eerk/pen/PoEVXOv)
 - [Kolommen met flex box en schalende afbeeldingen](https://codepen.io/eerk/pen/rNdWjKR)

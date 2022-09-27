@@ -18,9 +18,23 @@ Onderwerpen:
 
 ## Oefening
 
-Maak het onderstaande screenshot zo goed als je kan na, gebruik makend van de technieken uit les 1 t/m 6. 
+Je ziet hieronder een webdesign dat jij als webdeveloper aangereikt krijgt van de designer. Er is een versie voor desktop en een versie voor mobile. ***Aan jou de taak om met HTML en CSS dit ontwerp zo accuraat mogelijk te bouwen!***
 
-Maak de navigatie balk werkend! De knoppen springen naar een andere HTML pagina of naar een andere plek in je document.
+Maak de navigatie balk werkend. De knoppen springen naar een andere HTML pagina of naar een andere plek in je document.
+
+*Klik met rechts op de afbeeldingen om ze te vergroten*.
+
+| Desktop          | Mobile     |
+| --------------- | --------------- |
+| <img src="./images/alankay-desktop.png" width="440"> | <img src="./images/alankay-mobile.png" width="140">       |
+
+Je kan de drie benodigde afbeeldingen hier vinden:
+
+| Afbeeldingen |  |  |
+| ----------- | ----------- | ----------- |
+| <img src="./images/alankay-dynabook.png" width="100"> | <img src="./images/alankay-kids.png" width="100"> | <img src="./images/alankay-header.jpg" width="100"> |
+
+
 
 <br>
 <br>
