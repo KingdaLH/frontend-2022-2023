@@ -43,7 +43,7 @@ Onze block elementen bleven echter wel telkens *onder elkaar* staan. Met `flex` 
 
 ## Flex parent
 
-Door een element op `display:flex` te zetten, wordt het een `block` element, EN het gaat alle `block` children NAAST elkaar zetten.
+Door een element op `display:flex` te zetten, wordt het een `block` element. Alle direct children worden ook `block` elements. Flex gaat vervolgens alle direct children NAAST elkaar zetten.
 
 De parent bepaalt ook hoeveel ruimte er tussen de children komt te staan, en of de children links, rechts of gecentreerd worden uitgelijnd, met `justify-content`.
 
@@ -55,7 +55,7 @@ HTML
 <section>
     <div>Een kolom</div>
     <div>Dit is ook een kolom</div>
-    <div>Hee, hier is nog een kolom</div>
+    <div>Hier is nog een kolom</div>
 </section>
 ```
 CSS
@@ -187,7 +187,6 @@ nav {
   justify-content: space-between;
 }
 nav a {
-  display: block;
   flex: 1;
   text-align: center;
   background-color: lightblue;
