@@ -36,6 +36,8 @@ In [week 4](./week4.md) heb je een student card gemaakt. Plaats nu meerdere stud
 
 > *Je kan random avatars als volgt laden: `<img src="https://randomuser.me/api/portraits/men/41.jpg"/>`*
 
+> *Je kan met `gap:2px` de ruimte tussen je flex items bepalen*
+
 <br>
 <br>
 <br>
@@ -47,6 +49,16 @@ Maak onderstaande navigatie balk na. Het logo staat links. De buttons staan tege
 ![menu](./images/week5_navbar.png)
 
 > *Tip: je kan flex items een vaste breedte geven met `width`.*
+
+<br>
+<br>
+<br>
+
+## Eindresultaat
+
+Combineer de *nav bar*, *card row* en *hero image* tot één geheel. 
+
+<img src="./images/flex-result.png" width="400" />
 
 <br>
 <br>
