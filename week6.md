@@ -4,7 +4,7 @@ Deze week gaat het over mobile. Wat is ontwerpen voor mobile? Hoe maak je een si
 
 Onderwerpen:
 
-- Mobile First
+- Ontwerpen voor devices
 - Meta Resize Tag
 - Responsive mode aanzetten in de browser
 - Layout tips met flex, vw en % units
