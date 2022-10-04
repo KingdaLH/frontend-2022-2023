@@ -147,5 +147,5 @@ Online bronnen voor verdere zelfstudie:
 - [🔥 PenPot free webdesign tool](https://penpot.app) en [Youtube  tutorials](https://www.youtube.com/channel/UCAqS8G72uv9P5HG1IfgnQ9g)
 - [Figma](https://www.figma.com) webdesign tool
 - [UI-First Design](https://medium.com/sigma-software/benefits-of-using-ui-first-real-life-experience-ed81814b028e)
-- [Website Carbon Emission Calculator 💨](https://www.websitecarbon.com)
+- [Hamburger menu in CSS](https://codepen.io/gautam-tiwari/pen/GRWLRdZ?editors=1100)
 
