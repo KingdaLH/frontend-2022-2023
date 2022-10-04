@@ -28,13 +28,25 @@ Maak de navigatie balk werkend. De knoppen springen naar een andere HTML pagina 
 | --------------- | --------------- |
 | <img src="./images/alankay-desktop.png" width="440"> | <img src="./images/alankay-mobile.png" width="140">       |
 
-Je kan de drie benodigde afbeeldingen hier vinden:
+<br>
+
+### Afbeeldingen
+
+Je kan deze afbeeldingen gebruiken:
 
 | Afbeeldingen |  |  |
 | ----------- | ----------- | ----------- |
 | <img src="./images/alankay-dynabook.png" width="100"> | <img src="./images/alankay-kids.png" width="100"> | <img src="./images/alankay-header.jpg" width="100"> |
 
+<br>
 
+### Tekst content
+
+Hier kan je de tekst vinden voor de twee alinea's:
+
+> Alan Kay, een Amerikaanse computerexpert, bedacht in de jaren 1970 al een soort laptop. Ik beschrijf hoe hij op dit idee kwam, hoe hij zijn idee uitwerkte en prototypte en hoe zijn idee ontvangen werd. Vervolgens bespreek ik de impact van zijn idee.
+
+> In 1968 kreeg Kay dus het idee om een verplaatsbare, kleine, goedkope, persoonlijke mini-computer te maken voor kinderen; hij noemde dit in het begin het KiddyComp concept Wikipedia: Dynabook). In 1970 ging hij bij het onderzoeksinstituut van Xerox werken.
 
 <br>
 <br>
